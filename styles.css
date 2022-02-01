@@ -236,3 +236,11 @@ body{
     color: white;
     display: none;
 }
+
+background{
+  -webkit-filter: blur(125px);
+  -moz-filter: blur(125px);
+  -o-filter: blur(125px);
+  -ms-filter: blur(125px);
+  filter: blur(0px);
+}
