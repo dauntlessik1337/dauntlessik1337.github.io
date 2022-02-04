@@ -233,6 +233,7 @@ body{
 .project-name{
     text-align: center;
     font-size: 20px;
+    text-decoration: underline;
     color: white;
     display: none;
 }
@@ -244,4 +245,5 @@ body{
 
 .project-name a:hover{
     text-decoration: underline;
+    color: white;
 }
