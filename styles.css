@@ -236,3 +236,12 @@ body{
     color: white;
     display: none;
 }
+
+.project-name a{
+    text-decoration: none;
+    color: white;
+}
+
+.project-name a:hover{
+    text-decoration: underline;
+}
