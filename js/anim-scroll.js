@@ -29,5 +29,6 @@ function anim(){
     $('.footer').fadeIn(1000);
     $('.left-text').fadeIn(1000);
     $('.right-text').fadeIn(1000);
+    $('.arrows').fadeIn(1000);
 }
 anim();
