@@ -122,6 +122,7 @@ body{
     text-align: center;
     padding-right: 40px;
     padding-top: 40px;
+    display: none;
 }
 
 .arrows > ul > li{
