@@ -37,6 +37,7 @@ body{
     -ms-transition: text-shadow 0.2s linear;
     -o-transition: text-shadow 0.2s linear;
     transition: text-shadow 0.2s linear;
+    animation: pulse 1s;
 }
 
 .logo a{
